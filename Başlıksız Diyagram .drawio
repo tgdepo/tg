@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T08:25:15.982Z" agent="5.0 (Windows)" etag="xSYRU9oJQLT5Sb4M7OMB" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T08:28:57.061Z" agent="5.0 (Windows)" etag="nfFNdalIO60M2Kf0UCH6" version="14.7.0" type="github">
   <diagram id="TAK2x4sSzj42mIdyVDC0" name="Sayfa -1">
     <mxGraphModel dx="1865" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,11 +58,11 @@
         <mxCell id="SG6jkDlS0VIner6yAyDT-24" value="Öğretmen Giriş" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SG6jkDlS0VIner6yAyDT-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SG6jkDlS0VIner6yAyDT-72" target="SG6jkDlS0VIner6yAyDT-12">
+        <mxCell id="SG6jkDlS0VIner6yAyDT-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SG6jkDlS0VIner6yAyDT-72" target="SG6jkDlS0VIner6yAyDT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SG6jkDlS0VIner6yAyDT-72" value="Öğrenci Kayıt Ekranı" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="310" width="530" height="290" as="geometry" />
+          <mxGeometry x="-600" y="310" width="530" height="350" as="geometry" />
         </mxCell>
         <mxCell id="SG6jkDlS0VIner6yAyDT-73" value="Öğrenci No" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
           <mxGeometry y="26" width="530" height="26" as="geometry" />
@@ -71,7 +71,37 @@
           <mxGeometry y="52" width="530" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SG6jkDlS0VIner6yAyDT-75" value="Öğrenci Adı" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
-          <mxGeometry y="78" width="530" height="212" as="geometry" />
+          <mxGeometry y="78" width="530" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-78" value="Öğrenci Soyadı" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="106" width="530" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-79" value="Öğrenci Tel No" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="134" width="530" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-80" value="Veli Adı" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="160" width="530" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-81" value="Veli Soyadı" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="186" width="530" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-83" value="Veli Tel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="214" width="530" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-84" value="Öğrenci No" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="242" width="530" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-85" value="Öğrenci Adı" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="268" width="530" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-86" value="Tc " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="296" width="530" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-87" value="Öğrenci Adı" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SG6jkDlS0VIner6yAyDT-72">
+          <mxGeometry y="322" width="530" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="SG6jkDlS0VIner6yAyDT-88" value="RESİM" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="350" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
