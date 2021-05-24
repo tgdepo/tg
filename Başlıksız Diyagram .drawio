@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T08:07:52.115Z" agent="5.0 (Windows)" etag="PWLxujAS8Z0IVzrBMUsb" version="14.7.0" type="github"><diagram id="TAK2x4sSzj42mIdyVDC0" name="Sayfa -1">jZNda8MgFIZ/jZeDJrZpc1vXtGMdjGUw6J1EFwVTg7VNsl+/k6n5oBR2lXOe86G+5wRhUrV7Q2vxphlXKF6wFuFnFMfRAm/g05POkdVy7UBpJPNJI8jlDw+Vnl4l45dZotVaWVnPYaHPZ17YGaPG6Gae9q3V/NSalvwO5AVV9/RLMisc3cTrkR+4LEU4OUpSF6loSPYvuQjKdDNBeIcwMVpbZ1Ut4aoXL+ji6rIH0eFihp/tfwpeMGkPnx/Z6bRe5OnV1sfs+OS73Ki6+gejOFHQb8vkDcyyNxHBKE0QWaI0g9MKCRWvtOvBNrLgvBtdGlo5AP5eGonICtJDN7jWtKETxHZBZbgpDBScbSOk5XlNiz7SwE4BE7ZS4EVD5Y0by9uHOkSDurCWXFfcmg5SfAFO/EC6+aY143ijMDMxGe3GM+o3qhw6j6KD4XUP7jjfv9jkL8G7Xw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-24T08:12:12.980Z" agent="5.0 (Windows)" etag="T4bcNdjCK46o1Emu-iDT" version="14.7.0" type="github">
+  <diagram id="TAK2x4sSzj42mIdyVDC0" name="Sayfa -1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I3CxHTRFZZ70S9utpLFL-1" value="&lt;div&gt;Öğrenci Kayıt Programı Giriş&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
